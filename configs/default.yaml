@@ -1,0 +1,19 @@
+project:
+  name: BlipX
+  version: "0.1.0"
+
+audio:
+  sample_rate: 24000
+  channels: 1
+
+reasoning:
+  model: qwen3-4b
+
+codec:
+  model: mimi
+
+device:
+  type: cpu
+
+logging:
+  level: INFO
