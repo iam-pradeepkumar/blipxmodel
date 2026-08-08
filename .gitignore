@@ -5,7 +5,6 @@ __pycache__/
 
 # Virtual Environment
 venv/
-.env
 
 # IDE
 .vscode/
@@ -14,16 +13,12 @@ venv/
 # Logs
 *.log
 
-# Model Files
+# AI Models
 *.pt
 *.pth
 *.ckpt
 *.bin
 *.safetensors
 
-# Hugging Face Cache
+# HuggingFace
 .cache/
-
-# OS Files
-.DS_Store
-Thumbs.db

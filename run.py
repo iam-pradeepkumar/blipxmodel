@@ -1,6 +1,5 @@
-from core.application import BlipXApplication
-from core.config import ConfigManager
-
+from blipx.core.application import BlipXApplication
+from blipx.core.config import ConfigManager
 
 def main():
     config = ConfigManager()
