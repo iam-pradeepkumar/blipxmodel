@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model Files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face Cache
+.cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
